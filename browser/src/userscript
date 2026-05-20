@@ -1,0 +1,7 @@
+// ==UserScript==
+// @name     Page Playground
+// @description Edit a website using a remote.
+// @version  1
+// @match *://*/*
+// @grant    none
+// ==/UserScript==
